@@ -1,44 +1,63 @@
-# U.S. Patent No. 7,761,185
-| | |
-|-|-|
-| **Title:** | Remote presence display through remotely controlled robot  |
-| **Inventors:** | Yulun Wang, Charles S. Jordan, Marco Pinter, Michael C. Chan |
-| **Application No.:** | 11/542,912 |
-| **Original Assignee** | Intouch Technologies Inc |
-| **Priority Date:** | 2006-10-03 |
-| **Filing Date:** | 2006-10-03 |
-| **Issue Date:** | 2010-07-20 |
-| **Patent Term Adjustment:** | X days |
-| **Terminal Disclaimer:** | [NO] Disclaimer |
-| **Anticipated Expiration:** | 2029-05-20 |
-| **Priority Documents:** | N/A |
-| **Google Patents:** | [US7761185](https://patents.google.com/patent/US7761185)
-| **USPTO Patent Center:** | [11/542,912](https://patentcenter.uspto.gov/#!/applications/11542912)
-| **USPTO Assignments:** | [US7761185](https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=7761185)
-| **Patent PDF:** | [Google](https://patentimages.storage.googleapis.com/c3/1a/49/162bbe26b3239b/US7761185.pdf) |
-| **Prosecution History PDF:** |  |
+---
+title: U.S. Pat. No. 10,080,725
+aliases: ["10,080,725", "US 10,080,725", "US10080725", "US 10080725", "’725", "’725 Patent", "15/349,475", "US15/349475", "US15/349,475", "US 15/349475", "US 15/349,475"]
+tags: [Legal/Patents/US_Patent]
+---
+# U.S. Patent No. 10,080,725
+- **Type**: U.S. Patent
+- **Title**: Antibacterial S-heterosubstituted disulfides
+- **Inventors**: Edward Turos, Praveen Ramaraju
+- **Original Assignee**: University Of South Florida
+- **Application No.**: US15/349475
+- **App. Publication No.**: US2017/0056337
+- **App. Publication Date**: 2018-09-25
+- **Priority Date**: 2007-10-24
+- **Filing Date**: 2016-11-11
+- **Issued Patent**: US10080725
+- **Issue Date**: 2018-09-25
+- **Anticipated Expiration**: 2028-10-24
+- **Patent Term Adjustment**: ==X== days
+- **Terminal Disclaimer**: ==Yes/No==
+- **Priority Documents**: US98240307P; PCT/US2008/081125; US12/765,272
+- **Links**: [Google Patents](https://patents.google.com/patent/US10080725) | [USPTO PatFT](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10080725.PN.) | [USPTO Patent Center](https://patentcenter.uspto.gov/#!/applications/15349475) | [USPTO Assignment](https://assignment.uspto.gov/patent/index.html#/patent/search/resultAbstract?id=10080725&type=patNum)
+- **Publication PDF**: [Google Patents](https://patentimages.storage.googleapis.com/00/67/34/5a4cf44cbd6e89/US10080725.pdf) | [USPTO](https:/pimg-fpiw.uspto.gov/fdd/25/807/100/0.pdf)
+- **Prosecution History PDF**: ---
+- **Related Cases/Matters**: ---
 
 ## Abstract
 
-A robot system that includes a robot and a remote station. The robot and remote station contain monitors, cameras, speakers and microphones that allow for two-way videoconferencing between a physician at the remote station and a patient in the vicinity of the robot. The system also includes a patient monitor that displays patient information such as an x-ray. The patient monitor can be seen by the patient, and by the physician through the robot camera. The system allows for a physician to remotely review the medical information with the patient.
+Synthetically-derived S,S-heterodisubstituted disulfides that exhibit potent in vitro antibacterial activity against a variety of bacteria, including Staphylococcus aureus, methicillin-resistant Staphylococcus aureus and Francisella tularensis. The present invention provides compounds, methods and compositions effective to treat microbial/bacterial infections, and, especially, infections arising from bacteria which have developed resistance to conventional antibiotics.
 
 
 ##  Claims
-|||
-|-|-|
-| **Total Claims:** | 13 |
-| **Independent Claims:** | 2 |
+- **Total Claims**: 12
+- **Independent Claims**: 3
 
 ### Claim 1
-- A medical system for a patient, comprising:
-	- a patient monitor that displays patient information;
-	- a mobile robot that has a robot monitor, and a robot camera that captures an image, said robot camera being capable of viewing the patient and said patient monitor; and
-	- a remote station that is coupled to said mobile robot, said remote station includes a remote station monitor that displays the image captured by said robot camera and a remote station camera that captures an image that is displayed by said robot monitor.
+- A method for treating or preventing a bacterial infection, comprising administering to a subject in need thereof an effective amount of a compound comprising an S-heterosubstituted disulfide having the formula (I):
+	-  X1SSX2  (I)
+	- wherein each X1 and X2 are independently O—R1;
+	- wherein R1 is methyl, ethyl, propyl, isopropyl, butyl, s-butyl, phenyl, heteroaryl,
+	- ![EMI-C00052](https://patentimages.storage.googleapis.com/52/c3/9c/c21d240b51de02/US10080725-20180925-C00052.png)
 ### Claim 7
-- A method for interacting with a patient, comprising:
-	- moving a mobile robot that has a camera to view a patient and a patient monitor;
-	- displaying patient information on the patient monitor; and, conducting a two-way video conference between the patient, and a medical personnel at a remote station that controls movement of the robot.
+- A method for inhibiting bacterial growth, comprising contacting at least one bacterium with an effective amount of a compound comprising an S-heterosubstituted disulfide a compound having the formula (I):
+	-  R1X1SSX2R2  (I)
+	- wherein each X1 and X2 is independently O; and
+	- wherein each R1 and R2 are independently alkenyl, alkynyl, heteroaryl, heterocyclic, methyl, ethyl, propyl, isopropyl, butyl, s-butyl, phenyl, isobutyl,
+	- ![EMI-C00053](https://patentimages.storage.googleapis.com/37/ca/ab/0855861d9931c1/US10080725-20180925-C00053.png)
+### Claim 12
+- A method for treating or preventing a fungal infection, comprising administering to a subject in need thereof an effective amount of a compound comprising an S-heterosubstituted disulfide having the formula (I):
+	-  X1SSX2  (I)
+	- wherein each X1 and X2 are independently O—R1;
+	- wherein R1 is phenyl, heteroaryl,
+	- ![EMI-C00054](https://patentimages.storage.googleapis.com/29/de/fa/ea2636a5f6e144/US10080725-20180925-C00054.png)
 
 ## Notes
+### Prosecution History Notes
+- N/A
 
+### Assignment History Note
+- N/A
 
+### Additional Notes
+- N/A
