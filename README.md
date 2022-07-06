@@ -1,4 +1,4 @@
-# U.S. Patents Markdown
+# U.S. Patents Markdown Note
 
 Created by Jaime Stark on 1/30/2021
 
@@ -10,10 +10,16 @@ See 'LICENSE.txt' for details.
 ## Description
 This script generates a summary of a U.S. Patent or Patent Publication
 in markdown format based only on the patent or publication number.
+The script is intended for easy input into a markdown-based
+notetaking program like [Obsidian](https://obsidian.md).
+
+The resulting Patent Term Adjustment, Terminal Disclaimer, and
+Prosecution History PDF fields have placeholders that are intended to 
+be edited manually.
 
 Requires installation of BeautifulSoup4 python package.  To install 
 BeautifulSoup4 in python3, type:
 `pip3 install BeautifulSoup4`
 
 ## Usage
-`python3 patentmd PATENT_NUMBER > FILENAME.md`
+`python3 uspatentmd PATENT_NUMBER > FILENAME.md`
