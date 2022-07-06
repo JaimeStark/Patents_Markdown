@@ -16,4 +16,4 @@ BeautifulSoup4 in python3, type:
 `pip3 install BeautifulSoup4`
 
 ## Usage
-`python3 patentmd [PATENT NUMBER] > [FILENAME.md]`
+`python3 patentmd PATENT_NUMBER > FILENAME.md`
