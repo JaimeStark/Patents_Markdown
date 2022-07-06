@@ -1,4 +1,4 @@
-# Patents Markdown Note
+# Patents Markdown
 
 Created by Jaime Stark on 1/30/2021
 
