@@ -17,5 +17,3 @@ BeautifulSoup4 in python3, type:
 
 ## Usage
 `python3 patentmd [PATENT NUMBER] > [FILENAME.md]`
-
-![Example](example.md)
