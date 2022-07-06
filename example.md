@@ -1,14 +1,3 @@
----
-title: U.S. Patent No. 7,761,185
-aliases:
-  - US7761185
-  - 7761185
-  - 7,761,185
-  - ’185
-  - US11/542912
-  - US11/542,912
-tags: Legal/Patent(US)
----
 # U.S. Patent No. 7,761,185
 | | |
 |-|-|
@@ -52,7 +41,4 @@ A robot system that includes a robot and a remote station. The robot and remote 
 
 ## Notes
 
-### Related Cases
-- Asserted In:
-	- 
 
